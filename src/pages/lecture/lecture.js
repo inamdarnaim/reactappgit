@@ -14,6 +14,7 @@ const lecture = () => {
       <Values />
       <FAQs />
       <Testimonials />
+      abc
     </>
   )
 }
