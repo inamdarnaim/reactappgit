@@ -8,8 +8,7 @@ const About = () => {
   return (
     <>
       <Header title='About Us' image={HeaderImage}>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est voluptates
-        ex quia. Quas sit incidunt soluta maiores, fuga voluptas vitae!
+        Naim Inamdar
       </Header>
       <section className='about__story'>
         <div class='container about__story-container'>
