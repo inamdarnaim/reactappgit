@@ -14,7 +14,7 @@ const lecture = () => {
       <Values />
       <FAQs />
       <Testimonials />
-      abc-kkkkk
+      abc-naim test
     </>
   )
 }
