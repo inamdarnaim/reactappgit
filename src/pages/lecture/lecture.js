@@ -14,7 +14,7 @@ const lecture = () => {
       <Values />
       <FAQs />
       <Testimonials />
-      abc-naim newbranch
+      abc-naim newbranch local branch
     </>
   )
 }
